@@ -1,0 +1,14 @@
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\SMS.mdf
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\SMS_log.ldf
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityFramework.dll
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityFramework.xml
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\obj\Debug\EntityDataModelLibrary.csprojAssemblyReference.cache
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\obj\Debug\EntityDataModelLibrary.csproj.CoreCompileInputs.cache
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\obj\Debug\EntityDataModelLibrary.csproj.CopyComplete
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\obj\Debug\EntityDataModelLibrary.dll
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\obj\Debug\EntityDataModelLibrary.pdb
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityDataModelLibrary.dll.config
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityDataModelLibrary.dll
+D:\COMP212\Test1\300993981(Li)_Test01\EntityDataModelLibrary\bin\Debug\EntityDataModelLibrary.pdb

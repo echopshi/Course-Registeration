@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityDataModelLibrary", "EntityDataModelLibrary\EntityDataModelLibrary.csproj", "{6CF95DC5-78AB-45CE-9358-2BCF2A192CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseRegistration", "CourseRegistration\CourseRegistration.csproj", "{6F29DC6A-E6C4-4A35-858F-6D5F99016A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF95DC5-78AB-45CE-9358-2BCF2A192CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF95DC5-78AB-45CE-9358-2BCF2A192CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF95DC5-78AB-45CE-9358-2BCF2A192CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF95DC5-78AB-45CE-9358-2BCF2A192CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F29DC6A-E6C4-4A35-858F-6D5F99016A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F29DC6A-E6C4-4A35-858F-6D5F99016A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F29DC6A-E6C4-4A35-858F-6D5F99016A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F29DC6A-E6C4-4A35-858F-6D5F99016A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB919B28-84B9-4920-BC20-5AA0604DBF7D}
+	EndGlobalSection
+EndGlobal
